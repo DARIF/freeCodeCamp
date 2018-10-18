@@ -4,14 +4,14 @@ title: Add a Submit Button to a Form
 challengeType: 0
 guideUrl: 'https://arabic.freecodecamp.org/guide/certificates/add-a-submit-button-to-a-form'
 videoUrl: ''
-localeTitle: إضافة زر إرسال إلى نموذج
+localeTitle: إضافة زر إرسال إلى النموذج
 ---
 
 ## Description
 <section id="description"> دعنا نضيف زر <code>submit</code> إلى النموذج الخاص بك. يؤدي النقر على هذا الزر إلى إرسال البيانات من النموذج إلى عنوان URL الذي حددته باستخدام سمة <code>action</code> للنموذج. في ما يلي مثال زر الإرسال: <code>&lt;button type=&quot;submit&quot;&gt;this button submits the form&lt;/button&gt;</code> </section>
 
 ## Instructions
-<section id="instructions"> أضف زرًا باعتباره العنصر الأخير في عنصر <code>form</code> الخاص بك مع نوع <code>submit</code> ، و &quot;إرسال&quot; كنصه. </section>
+<section id="instructions"> أضف زرًا باعتباره العنصر الأخير في عنصر <code>form</code> الخاص بك مع نوع <code>submit</code> ، و &quot;إرسال&quot; كنص. </section>
 
 ## Tests
 <section id='tests'>
